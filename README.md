@@ -1,7 +1,7 @@
 # ASP-NET-Core-Token-Based-Auth
 ASP .NET Core 2.2 Token Based Authentication 
 
-[Clone](https://github.com/learnwithkawsar/ASP-NET-Core-Token-Based-Auth.git) Source Code from [github]((https://github.com/learnwithkawsar/ASP-NET-Core-Token-Based-Auth.git).
+[Clone](https://github.com/learnwithkawsar/ASP-NET-Core-Token-Based-Auth.git) Source Code from github.
 
 Open the project in Visual Studio 2017 or higher.
 
